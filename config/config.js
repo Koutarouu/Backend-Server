@@ -1,0 +1,1 @@
+module.exports.SEED = '@estes-es@-un-seed-hard';
